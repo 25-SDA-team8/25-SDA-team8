@@ -1,17 +1,20 @@
 # 25-SDA-team8
-### folder structure
+
+## Folder structure
+
+```text
 C:.
 |   README.md
 |
-+---data(데이터)
-|   +---birth(분만)
-|   +---elderly(노인)
-|   \---pediatric(소아)
-+---docs(문서)
++---data (데이터)
+|   +---birth (분만)
+|   +---elderly (노인)
+|   \---pediatric (소아)
++---docs (문서)
 |   +---birth
 |   +---elderly
 |   \---pediatric
-\---src(코드)
+\---src (코드)
     +---birth
     +---elderly
     \---pediatric
